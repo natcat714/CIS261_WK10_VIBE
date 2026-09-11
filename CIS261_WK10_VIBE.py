@@ -1,3 +1,7 @@
+#Natalia Pacheco
+#CIS 261
+#WK 10 VIBE CODING
+
 """Student Grade Calculator."""
 
 from dataclasses import dataclass
